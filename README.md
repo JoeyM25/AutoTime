@@ -30,7 +30,7 @@ A C# console application that automates logging daily work hours into Bullhorn S
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/bullhorn-timesheet-automator.git
+git clone https://github.com/JoeyM25/Bullhorn-time-automator
 cd bullhorn-timesheet-automator
 ```
 
