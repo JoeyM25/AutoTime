@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\37682-1\\Documents\\playwrightTesting\\AutoTime\\TimeTracker\\TimeTracjer.csproj": {}
+    "C:\\Users\\37682-1\\Documents\\playwrightTesting\\AutoTime\\TimeTracker\\TimeTracjer.csproj": {}
   },
   "projects": {
-    "c:\\Users\\37682-1\\Documents\\playwrightTesting\\AutoTime\\TimeTracker\\TimeTracjer.csproj": {
+    "C:\\Users\\37682-1\\Documents\\playwrightTesting\\AutoTime\\TimeTracker\\TimeTracjer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\37682-1\\Documents\\playwrightTesting\\AutoTime\\TimeTracker\\TimeTracjer.csproj",
+        "projectUniqueName": "C:\\Users\\37682-1\\Documents\\playwrightTesting\\AutoTime\\TimeTracker\\TimeTracjer.csproj",
         "projectName": "TimeTracjer",
-        "projectPath": "c:\\Users\\37682-1\\Documents\\playwrightTesting\\AutoTime\\TimeTracker\\TimeTracjer.csproj",
+        "projectPath": "C:\\Users\\37682-1\\Documents\\playwrightTesting\\AutoTime\\TimeTracker\\TimeTracjer.csproj",
         "packagesPath": "C:\\Users\\37682-1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\37682-1\\Documents\\playwrightTesting\\AutoTime\\TimeTracker\\obj\\",
+        "outputPath": "C:\\Users\\37682-1\\Documents\\playwrightTesting\\AutoTime\\TimeTracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\37682-1\\AppData\\Roaming\\NuGet\\NuGet.Config"
