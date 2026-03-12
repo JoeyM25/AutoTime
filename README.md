@@ -124,6 +124,6 @@ Headless = true
 
 ---
 
-## 📝 License
+## 📝 Usage
 
 This project is for personal use. Use responsibly and in accordance with your organization's policies.
